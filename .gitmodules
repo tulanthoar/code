@@ -1,0 +1,9 @@
+[submodule "perl"]
+        path = perl
+        url = https://github.com/tulanthoar/perl
+[submodule "pygit"]
+        path = pygit
+        url = https://github.com/tulanthoar/pygit
+[submodule "proj-euler"]
+        path = proj-euler
+        url = https://github.com/tulanthoar/proj-euler
