@@ -7,3 +7,6 @@
 [submodule "proj-euler"]
         path = proj-euler
         url = https://github.com/tulanthoar/proj-euler
+[submodule "texgit"]
+	path = texgit
+	url = https://github.com/tulanthoar/texgit
