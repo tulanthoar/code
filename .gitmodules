@@ -7,3 +7,6 @@
 [submodule "texgit"]
 	path = texgit
 	url = https://github.com/tulanthoar/texgit
+[submodule "pyrep"]
+	path = pyrep
+	url = https://github.com/tulanthoar/pygit
